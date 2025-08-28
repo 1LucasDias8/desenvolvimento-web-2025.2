@@ -1,0 +1,28 @@
+{
+  "name": "desenvolvimento-web-2025.2",
+  "version": "1.0.0",
+  "description": "<!-- EXEMPLO: \"AtendeAí — Fila de Ajuda em Sala\" -->",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1LucasDias8/desenvolvimento-web-2025.2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1LucasDias8/desenvolvimento-web-2025.2/issues"
+  },
+  "homepage": "https://github.com/1LucasDias8/desenvolvimento-web-2025.2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
